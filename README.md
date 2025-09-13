@@ -12,7 +12,7 @@ This theme for [Jekyll](https://jekyllrb.com/) has been inspired by [dash-ui](ht
 
 [![design](theme.gif)](http://bitbrain.github.io)
 
-## Features
+## Features+
 
 #### :first_quarter_moon: Dark/Light Mode
 #### :arrow_left: Right-to-Left (RTL) Support
